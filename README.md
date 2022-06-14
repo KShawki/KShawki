@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Khalid 👋
 
 - 🔭 Software Engineering Student
