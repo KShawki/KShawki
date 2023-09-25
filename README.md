@@ -1,10 +1,14 @@
-### Hi there, I'm Khalid 👋
+## Hi there, I'm Khalid 👋
+
+### Glad to see you here!
 
 I'm a Junior Software Engineer specializing in front-end development, deeply passionate about coding and constantly curious about new technologies. My main aim is to become a skilled Front-End Developer, using my technical expertise to improve user experiences and contribute to the development lifecycle.
 
-- 📫 k.shawkiii@gmail.com
+### Discussing Personal Matters:
 
-<br/>
+- 💪 I’m currently working with React, Next, JS, TS.
+- 🚀 I’m currently learning NodeJS, Nest.
+- 📫 Reach me out k.shawkki@gmail.com
 
 ### Languages and Tools:
 
