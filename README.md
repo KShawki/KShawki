@@ -2,13 +2,13 @@
 
 ### Glad to see you here!
 
-I'm a Junior Software Engineer specializing in front-end development, deeply passionate about coding and constantly curious about new technologies. My main aim is to become a skilled Front-End Developer, using my technical expertise to improve user experiences and contribute to the development lifecycle.
+I'm a Software Engineer specializing in frontend development, deeply passionate about coding and constantly curious about new technologies. My main aim is to become a skilled Frontend Developer, using my technical expertise to improve user experiences and contribute to the development lifecycle.
 
 ### Discussing Personal Matters:
 
-- 💪 I’m currently working with React, Next, JS, TS.
-- 🚀 I’m currently learning NodeJS, Nest.
-- 📫 Reach me out k.shawkki@gmail.com
+- 💪 I’m currently working with ReactJS, NextJS, JavaScript, TypeScript.
+- 🚀 I’m currently learning NodeJS, NestJS.
+- 📫 Reach me out k.shawkiii@gmail.com
 
 ### Languages and Tools:
 
